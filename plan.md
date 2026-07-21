@@ -1,0 +1,4 @@
+## Billing Localization Plan
+- [x] Customer billing localization: collect billing country, show Indian customers INR with UPI/Indian bank/GST instructions, and show non-Indian customers USD or regional currency with international transfer instructions in the existing light SaaS style.
+- [x] Admin payment operations: show user/workspace billing details, country, currency, invoices, payment methods, transaction references, and reconciliation actions in a complete admin dashboard.
+- [x] Admin money-receiving guidance: add clear admin-facing explanation of how money is received, where bank details are configured/displayed, how manual confirmations are reconciled, and what remains offline/manual.
